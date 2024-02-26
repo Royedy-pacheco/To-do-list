@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">To do list</string>
+    <string name="new_task">Nueva Tarea</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="place_holder" translatable="false">Place Holder</string>
+    <string name="checkbox" translatable="false">CheckBox</string>
+
+</resources>
